@@ -1,0 +1,17 @@
+html{
+    background: #eee;
+}
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    margin: 0 auto;
+    width: 800px;
+    background: #fff;
+    padding: 40px;
+    min-height: 500px;
+    line-height: 1.6;
+    font-weight: 300;
+}
